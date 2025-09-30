@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manuelpaci1994-lang.github.io/betflag-referral/sitemap.xml
